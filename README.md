@@ -7,7 +7,7 @@ I'm a Software Engineer, I'm passionate about sharing knowledge, documentation a
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: A graduate from AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m very good with Open source, JavaScript, linux, Google cloud, AWS, Azure, Digital Ocean and some others.
+- 🌱 I’m very good with Open source, JavaScript, linux, Google cloud, AWS, Azure, Digital Ocean, Kubernetes,Terraform, Docker and others
 - 😊 I’m looking for help with open source projects, internships, and entrylevel opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer (Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing goodnessokafor78@gmail.com.
